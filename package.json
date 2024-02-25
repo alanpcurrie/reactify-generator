@@ -1,0 +1,25 @@
+{
+    "name": "nodejs-sandbox",
+    "author": "Alan Currie",
+    "license": "MIT",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "type": "module",
+    "scripts": {
+        "gen": "node run index.js"
+    },
+    "bugs": {
+        "url": "https://github.com/codesandbox-app/static-template/issues"
+    },
+    "homepage": "https://github.com/codesandbox-app/static-template#readme",
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "chalk-animation": "^2.0.3",
+        "commander": "^12.0.0",
+        "figlet": "^1.7.0",
+        "fs-extra": "^11.2.0",
+        "inquirer": "^9.2.14",
+        "node-emoji": "^2.1.3"
+    }
+}
