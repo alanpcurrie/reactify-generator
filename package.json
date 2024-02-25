@@ -1,5 +1,5 @@
 {
-    "name": "nodejs-sandbox",
+    "name": "reactify-generator",
     "author": "Alan Currie",
     "license": "MIT",
     "version": "1.0.0",
@@ -10,9 +10,9 @@
         "gen": "node run index.js"
     },
     "bugs": {
-        "url": "https://github.com/codesandbox-app/static-template/issues"
+        "url": "https://github.com/alanpcurrie/reactify-generator"
     },
-    "homepage": "https://github.com/codesandbox-app/static-template#readme",
+    "homepage": "https://github.com/alanpcurrie/reactify-generator",
     "dependencies": {
         "chalk": "^5.3.0",
         "chalk-animation": "^2.0.3",
